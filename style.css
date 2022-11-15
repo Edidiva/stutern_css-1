@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.first-section {
+    font-size: 14px;
+    color: green;
+    margin: 25px  auto;
+    width: 50%;
+    border: solid #A8EB12 1px;
+}
+h1{
+    font-size: 18px;
+}
+
+.first-section p{
+    padding: 20px;
+}
+
+.second-section{
+    font-size: 14px;
+    color: red;
+    margin:25px auto;
+    width: 50%;
+    border: solid #A50000 1px;
+}
+
+.second-section p{
+    padding: 20px;
+}
+
+.third-section{
+    font-size: 14px;
+    color: blue;
+    margin: 25px  auto;
+    width: 50%;
+    border: solid #8675A7 1px;
+
+}
+
+.third-section p{
+    padding: 20px;
+}
